@@ -46,7 +46,7 @@ $ make
 
 - algo: which algorithm you prefer to run
     - exact: The exact algorithm
-    - lkx: our algorithm
+    - clock: our algorithm
 - options
     - --prefix \<prefix\>
     - --dataset \<dataset\>
