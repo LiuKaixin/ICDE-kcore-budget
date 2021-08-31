@@ -38,7 +38,7 @@ const string RAND1 = "random1";
 const string RAND2 = "random2";
 const string DEGREE = "degree";
 const string DEGREE1 = "degree1";
-const string LKX = "lkx";
+const string LKX = "clock";
 
 
 //用作计时
